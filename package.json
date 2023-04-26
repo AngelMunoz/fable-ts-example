@@ -1,0 +1,14 @@
+{
+  "name": "fable-ts-example",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "5.0.4"
+  },
+  "scripts": {
+    "watch:core": "pnpm --filter @sample/core run watch",
+    "serve:angular": "pnpm --filter @sample/apps-angular run start"
+  }
+}
