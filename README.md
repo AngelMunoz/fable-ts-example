@@ -9,6 +9,7 @@ In this monorepo we'll separate sources in the following way
   Here we'll have "consumer" code, for example angular/react/web/node apps
 
 - libs
+
   Here we'll have "library" code, for example fable code that we want to share between apps, we could also have just pure typescript libraries as well but depending on your needs any code that is library-like could be here.
 
 ### How to run
